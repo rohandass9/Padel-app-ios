@@ -1,4 +1,4 @@
-# Padel Tracker App
+# Padel Tracker App 🎾
 
 ## Overview
 A SwiftUI-based watchOS app for tracking padel matches and fitness metrics.
@@ -8,12 +8,12 @@ A SwiftUI-based watchOS app for tracking padel matches and fitness metrics.
 - Score logging
 - Basic performance stats
 
-## Tech Stack
+## Tech Stack 💻
 - Swift
 - SwiftUI
 - watchOS
 - Apple health kit
 
-## What I Learned
+## What I Learned 📚
 - State management in SwiftUI
 - Designing for small screens
